@@ -9,5 +9,4 @@
       **❤️ In 2025, I'm going to learn Machine Learning more deeply and construct some meaningfull templates with other developers.
       Also, I'm going to learn more about the game development using unity, layabox and cocos. I hope for kind help from all talented developers for my tech growth.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </div>
-   <hr>
 </div>
